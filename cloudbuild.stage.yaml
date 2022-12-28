@@ -33,4 +33,4 @@ substitutions:
     _SERVICE_PROJECT  : stage-369815
     _SERVICE_NAME     : docker-app-stage
     _DOCKER_REGISTRY  : docker-images
-    _DOCKER_IMAGENAME : app-staging
+    _DOCKER_IMAGENAME : app-stage
